@@ -353,16 +353,16 @@ bind "p" "noclip";
 ## 灵敏度
 
 ### DPI
-+ 800
++ 1000
 
 ### 鼠标灵敏度
 ```
-sensitivity "0.9";
+sensitivity "0.8";
 ```
 
 ### 缩放灵敏度倍数
 ```
-zoom_sensitivity_ratio "1.2";
+zoom_sensitivity_ratio "1.0";
 ```
 
 ---

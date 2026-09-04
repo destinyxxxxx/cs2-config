@@ -241,7 +241,7 @@ bind "z" "slot6";
 
 ### 闪光弹
 ```
-bind "t" "slot7";
+bind "v" "slot7";
 ```
 
 ### 燃烧瓶
@@ -314,21 +314,12 @@ bind "o" "+radialradio3";
 ### 涂鸦菜单
 ```
 bind "mouse5" "+spray_menu";
+bind "t" "+spray_menu";
 ```
 
 ### 丢刀
 ```
-bind "n" "say_team !drop";
-```
-
-### 跳投
-```
-bind "v" "+jump;+pwathrow;";
-```
-
-### w+跳投
-```
-bind "j" "+pwawjump;+pwathrow";
+bind "j" "say_team !drop";
 ```
 
 ### 跑图训练

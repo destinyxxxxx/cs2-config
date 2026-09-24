@@ -348,12 +348,12 @@ bind "p" "noclip";
 
 ### 鼠标灵敏度
 ```
-sensitivity "0.9";
+sensitivity "0.6";
 ```
 
 ### 缩放灵敏度倍数
 ```
-zoom_sensitivity_ratio "1.25";
+zoom_sensitivity_ratio "1.0";
 ```
 
 ---

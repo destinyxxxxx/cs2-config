@@ -360,21 +360,37 @@ zoom_sensitivity_ratio "1.0";
 
 ## 持枪视角
 ```
-viewmodel_fov 68; viewmodel_offset_x 2.5; viewmodel_offset_y 0; viewmodel_offset_z -1.5; viewmodel_presetpos 2; cl_usenewbob false;
+viewmodel_fov "68";
+viewmodel_offset_x "2.5";
+viewmodel_offset_y "0";
+viewmodel_offset_z "-1.5";
+viewmodel_presetpos "3";
 ```
 
 ---
 
-## 准星代码
+## 准星
 
-### 载物准星
 ```
-CSGO-UF6bG-z2DWa-jFYCi-QAqX9-PX6uC
-```
+cl_crosshairstyle "4";
+cl_crosshairdot "0";
 
-### NiKo准星
-```
-CSGO-MXQrt-xQWeR-wnuzU-t4cLq-qKwLA
+cl_crosshair_recoil "0";
+cl_crosshair_drawoutline "0";
+cl_crosshair_t "0";
+cl_crosshaircolor_r "50";
+cl_crosshaircolor_g "250";
+cl_crosshaircolor_b "250";
+cl_crosshaircolor_a "255";
+cl_crosshair_gap "1";
+cl_crosshair_length "2";
+cl_crosshair_dynamic_spread_limit "255";
+cl_crosshair_dynamic_splitdist "3";
+cl_crosshair_dynamic_splitalpha_innermod "0";
+cl_crosshair_dynamic_splitalpha_outermod "1";
+cl_crosshair_dynamic_maxdist_splitratio "1";
+cl_crosshair_thickness "2";
+cl_crosshair_screen_height "960";
 ```
 
 ## 鼠标设置

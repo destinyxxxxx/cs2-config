@@ -353,7 +353,7 @@ sensitivity "0.9";
 
 ### 缩放灵敏度倍数
 ```
-zoom_sensitivity_ratio "1";
+zoom_sensitivity_ratio "1.25";
 ```
 
 ---
